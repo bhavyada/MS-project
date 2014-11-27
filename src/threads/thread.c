@@ -1,3 +1,6 @@
+// Project submission by Bhavya Dayananda Kattapuni
+// bhavyada@buffalo.edu
+
 #include "threads/thread.h"
 #include <debug.h>
 #include <stddef.h>

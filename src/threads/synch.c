@@ -26,6 +26,9 @@
    MODIFICATIONS.
 */
 
+// Project submission by Bhavya Dayananda Kattapuni
+// bhavyada@buffalo.edu
+
 #include "threads/synch.h"
 #include <stdio.h>
 #include <string.h>

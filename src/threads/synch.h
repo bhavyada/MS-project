@@ -1,3 +1,6 @@
+// Project submission by Bhavya Dayananda Kattapuni
+// bhavyada@buffalo.edu
+
 #ifndef THREADS_SYNCH_H
 #define THREADS_SYNCH_H
 

@@ -1,3 +1,6 @@
+// Project submission by Bhavya Dayananda Kattapuni
+// bhavyada@buffalo.edu
+
 #ifndef DEVICES_TIMER_H
 #define DEVICES_TIMER_H
 

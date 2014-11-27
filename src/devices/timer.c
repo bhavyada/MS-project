@@ -1,3 +1,6 @@
+// Project submission by Bhavya Dayananda Kattapuni
+// bhavyada@buffalo.edu
+
 #include "devices/timer.h"
 #include <debug.h>
 #include <inttypes.h>
